@@ -1,0 +1,9 @@
+requests~=2.32.3
+beautifulsoup4~=4.13.3
+pandas~=2.2.3
+lxml
+aiohttp~=3.11.16
+elasticsearch~=8.17.2
+fastapi~=0.115.12
+pydantic~=2.11.1
+rapidfuzz~=3.12.2
